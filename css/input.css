@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Lato");
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(https://images.pexels.com/photos/709732/pexels-photo-709732.jpeg?w=1400&h=970&auto=compress&cs=tinysrgb);
+  background-position: cover; }
+
+.container {
+  width: 45%;
+  margin-left: 45%;
+  text-align: left;
+  font-family: 'Lato', sans-serif; }
+
+.verse p, .chorus {
+  padding: 10px 0;
+  line-height: 21px;
+  font-size: 17px; }
+
+h4 {
+  margin: 0 auto;
+  text-transform: uppercase; }
+
+.chorus p {
+  margin-top: 0;
+  margin-bottom: 0; }
+
+/*# sourceMappingURL=input.css.map */
